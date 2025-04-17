@@ -1712,6 +1712,16 @@
         "build": {
           "build/netcoreapp3.1/xunit.runner.visualstudio.props": {}
         }
+      },
+      "ModernSoftwareApp/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/ModernSoftwareApp.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ModernSoftwareApp.dll": {}
+        }
       }
     }
   },
@@ -5506,11 +5516,17 @@
         "xunit.runner.visualstudio.2.4.5.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "ModernSoftwareApp/1.0.0": {
+      "type": "project",
+      "path": "../../ModernSoftwareApp/ModernSoftwareApp/ModernSoftwareApp.csproj",
+      "msbuildProject": "../../ModernSoftwareApp/ModernSoftwareApp/ModernSoftwareApp.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
       "Microsoft.NET.Test.Sdk >= 17.5.0",
+      "ModernSoftwareApp >= 1.0.0",
       "coverlet.collector >= 3.2.0",
       "xunit >= 2.4.2",
       "xunit.runner.visualstudio >= 2.4.5"
@@ -5541,7 +5557,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/saadelmatbai/Desktop/studies/E5 Modern Entreprise software/TP1/ModernSoftwareApp/ModernSoftwareApp/ModernSoftwareApp.csproj": {
+              "projectPath": "/Users/saadelmatbai/Desktop/studies/E5 Modern Entreprise software/TP1/ModernSoftwareApp/ModernSoftwareApp/ModernSoftwareApp.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

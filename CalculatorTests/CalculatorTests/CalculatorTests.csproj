@@ -23,8 +23,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Reference Include="ModernSoftwareApp">
-      <HintPath>..\..\ModernSoftwareApp\ModernSoftwareApp\obj\Debug\net7.0\ref\ModernSoftwareApp.dll</HintPath>
-    </Reference>
+    <ProjectReference Include="..\..\ModernSoftwareApp\ModernSoftwareApp\ModernSoftwareApp.csproj" />
   </ItemGroup>
 </Project>
