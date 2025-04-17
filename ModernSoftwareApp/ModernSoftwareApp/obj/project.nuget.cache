@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "99Fw8CMX7FRhZ/Tlc+6kENwpaczt46y/5DUjQsLbdmvjvXKbYwEShwhjB2gtAtqs62tkRj+JBENWHzweZGtLdQ==",
+  "dgSpecHash": "FfCOIkNiU5Vk5U5QWPdtUCAd9KmA0Pa/tr3NZYJlJ5HM7G+WoIDYdZnRrA2bSWSXOrW7HygEqYiipYmMKUzx3g==",
   "success": true,
   "projectFilePath": "/Users/saadelmatbai/Desktop/studies/E5 Modern Entreprise software/TP1/ModernSoftwareApp/ModernSoftwareApp/ModernSoftwareApp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/saadelmatbai/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/saadelmatbai/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/saadelmatbai/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
   "logs": []
 }

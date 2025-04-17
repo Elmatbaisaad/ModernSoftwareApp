@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ModernSoftwareApp", "ModernSoftwareApp", "{FF13AC24-12B8-4694-814A-5D6C638940D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModernSoftwareApp", "ModernSoftwareApp\ModernSoftwareApp\ModernSoftwareApp.csproj", "{FA62BA01-26F0-4618-99D2-39C469DAA65E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CalculatorTests", "CalculatorTests", "{ACA8B2E2-96FB-4704-B193-E199B29304DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorTests", "CalculatorTests\CalculatorTests\CalculatorTests.csproj", "{6EAF5F1E-3001-4FAC-8F4D-56D6A1DB3BA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA62BA01-26F0-4618-99D2-39C469DAA65E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA62BA01-26F0-4618-99D2-39C469DAA65E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA62BA01-26F0-4618-99D2-39C469DAA65E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA62BA01-26F0-4618-99D2-39C469DAA65E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EAF5F1E-3001-4FAC-8F4D-56D6A1DB3BA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EAF5F1E-3001-4FAC-8F4D-56D6A1DB3BA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EAF5F1E-3001-4FAC-8F4D-56D6A1DB3BA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EAF5F1E-3001-4FAC-8F4D-56D6A1DB3BA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FA62BA01-26F0-4618-99D2-39C469DAA65E} = {FF13AC24-12B8-4694-814A-5D6C638940D7}
+		{6EAF5F1E-3001-4FAC-8F4D-56D6A1DB3BA3} = {ACA8B2E2-96FB-4704-B193-E199B29304DC}
+	EndGlobalSection
+EndGlobal
