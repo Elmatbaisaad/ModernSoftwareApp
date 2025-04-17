@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{05A07811-0790-4ED0-B3AA-E114790F9246}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ModernSoftwareApp/Calculator.cs">
+    <Files>
+      <File FileName="ModernSoftwareApp/Program.cs" />
+      <File FileName="ModernSoftwareApp/Calculator.cs" Line="10" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ModernSoftwareApp" expanded="True">
+            <Node name="ModernSoftwareApp" expanded="True">
+              <Node name="Calculator.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ModernSoftwareApp PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
