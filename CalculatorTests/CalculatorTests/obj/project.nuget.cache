@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Jaokek7kIQg=",
+  "dgSpecHash": "c0OP+PcfkqE=",
   "success": true,
   "projectFilePath": "/Users/saadelmatbai/Desktop/studies/E5 Modern Entreprise software/TP1/CalculatorTests/CalculatorTests/CalculatorTests.csproj",
   "expectedPackageFiles": [
@@ -18,9 +18,7 @@
     "/Users/saadelmatbai/.nuget/packages/xunit.core/2.9.3/xunit.core.2.9.3.nupkg.sha512",
     "/Users/saadelmatbai/.nuget/packages/xunit.extensibility.core/2.9.3/xunit.extensibility.core.2.9.3.nupkg.sha512",
     "/Users/saadelmatbai/.nuget/packages/xunit.extensibility.execution/2.9.3/xunit.extensibility.execution.2.9.3.nupkg.sha512",
-    "/Users/saadelmatbai/.nuget/packages/xunit.runner.visualstudio/3.0.2/xunit.runner.visualstudio.3.0.2.nupkg.sha512",
-    "/Users/saadelmatbai/.nuget/packages/microsoft.netcore.app.ref/6.0.36/microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
-    "/Users/saadelmatbai/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.36/microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+    "/Users/saadelmatbai/.nuget/packages/xunit.runner.visualstudio/3.0.2/xunit.runner.visualstudio.3.0.2.nupkg.sha512"
   ],
   "logs": []
 }
