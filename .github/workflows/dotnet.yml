@@ -26,5 +26,8 @@ jobs:
       - name: Run Tests
         run: dotnet test --no-build --verbosity normal
 
+      - name: Simulated deploy
+        run: bash ./deploy.sh
+
       - name: Read secret
         run: echo "Secret value is ${{ secrets.MY_SECRET }}"
